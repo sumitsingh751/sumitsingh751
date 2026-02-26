@@ -38,7 +38,7 @@
 ---
 
 ## 🧠 TryHackMe Badge
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5228133" style='border:none;'></iframe>
 
 ---
 
