@@ -63,5 +63,5 @@
 ---
 
 ## 📫 Contact
-📧 your-email@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK
+📧 your-sumitsinghraj751@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sumit-singh-569a0831b
