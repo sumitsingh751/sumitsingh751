@@ -27,15 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitsingh751&show_icons=true&theme=tokyonight)
 
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=sumitsingh751&theme=onedark)
-
----
 
 ## 🧠 TryHackMe Badge
 <img src="https://tryhackme-badges.s3.amazonaws.com/sumitsinghraj751.png" alt="TryHackMe">
