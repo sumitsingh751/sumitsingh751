@@ -1,22 +1,67 @@
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100080726060263) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumitsinghrajput751) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumit-singh-569a0831b/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white)
-# 📊 GitHub Stats:
-
-
-## 🏆 GitHub Trophies
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5228133" style='border:none;'></iframe>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sumitsingh751&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
+<h3 align="center">Cyber Security Student | Ethical Hacking | Pentesting | Python</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sumitsingh751&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+<p align="left">
+<a href="https://www.facebook.com/people/%E0%A4%B8%E0%A5%81%E0%A4%AE%E0%A4%BF%E0%A4%A4-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9/pfbid02WGrApDicZ9MFNu2d5rUoyyscixM8FPrg3vCNbP6ybWgBQoyfT2X28RDTs9m889MSl/?ref=NONE_ig_profile_ac">Facebook</a> |
+<a href="https://https://www.instagram.com/sumitsingh.751/">Instagram</a> |
+<a href="https://www.linkedin.com/in/sumit-singh-569a0831b/">LinkedIn</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Nmap-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+
+---
+
+## 🧠 TryHackMe Badge
+<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe">
+
+---
+
+## 💬 Random Dev Quote
+> “It is easier to change the specification to fit the program than vice versa.”  
+> — Alan Perlis
+
+---
+
+## 🔝 Top Contributed Repo
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🚀 About Me
+- 🎓 Cyber Security Student  
+- 🔐 Interested in Ethical Hacking & Pentesting  
+- 🧪 Building Security Tools with Python  
+- 🐧 Linux Enthusiast  
+- 🎯 Goal: Become Application Security / Pentesting Expert  
+
+---
+
+## 📫 Contact
+📧 your-email@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK
