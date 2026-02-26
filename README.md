@@ -28,12 +28,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitsingh751&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=sumitsingh751&theme=onedark)
 
 ---
 
@@ -63,5 +63,5 @@
 ---
 
 ## 📫 Contact
-📧 your-sumitsinghraj751@gmail.com  
+📧 your- sumitsinghraj751@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sumit-singh-569a0831b
