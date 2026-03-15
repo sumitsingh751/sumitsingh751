@@ -55,5 +55,5 @@
 ---
 
 ## 📫 Contact
-📧 your- sumitsinghraj751@gmail.com  
+📧 e-mail- sumitsinghraj751@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sumit-singh-569a0831b
