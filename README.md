@@ -1,59 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
-<h3 align="center">Cyber Security Student | Ethical Hacking | Pentesting | Python</h3>
-
----
-
-## 🌐 Socials
-<p align="left">
-<a href="https://www.facebook.com/people/%E0%A4%B8%E0%A5%81%E0%A4%AE%E0%A4%BF%E0%A4%A4-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9/pfbid02WGrApDicZ9MFNu2d5rUoyyscixM8FPrg3vCNbP6ybWgBQoyfT2X28RDTs9m889MSl/?ref=NONE_ig_profile_ac">Facebook</a> |
-<a href="https://https://www.instagram.com/sumitsingh.751/">Instagram</a> |
-<a href="https://www.linkedin.com/in/sumit-singh-569a0831b/">LinkedIn</a>
-</p>
-
----
-
-## 💻 Tech Stack
-<p>
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash" />
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Nmap-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
-</p>
-
----
+# 💫 About Me:
+🔭 I'm currently working on  <br>- Building a Web Vulnerability Scanner (XSS, IDOR, security misconfigurations)  <br>- Practicing penetration testing on labs (TryHackMe / HackTheBox)  <br>- Developing Python-based security & automation tools  <br><br>👯 I'm looking to collaborate on  <br>- Open-source pentesting tools  <br>- Bug bounty hunting & vulnerability research  <br>- Cybersecurity CTF challenges  <br><br>🤝 I'm looking for help with  <br>- Advanced exploitation techniques (XSS chaining, auth bypass, privilege escalation)  <br>- Real-world penetration testing methodologies  <br>- Writing professional security reports  <br><br>🌱 I'm currently learning  <br>- Web Pentesting (OWASP Top 10 - practical)  <br>- Network Pentesting (Nmap, Wireshark)  <br>- Linux & scripting for security automation  <br><br>💬 Ask me about  <br>- Beginner → Intermediate Pentesting  <br>- Python for security tools  <br>- Web vulnerabilities (XSS, IDOR, CSRF)  <br><br>⚡ Fun fact  <br>- I break systems ethically to understand how attackers think 🧠💻
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sumitsingh751) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/people/%E0%A4%B8%E0%A5%81%E0%A4%AE%E0%A4%BF%E0%A4%A4-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9/pfbid02WGrApDicZ9MFNu2d5rUoyyscixM8FPrg3vCNbP6ybWgBQoyfT2X28RDTs9m889MSl/?ref=NONE_ig_profile_ac) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sumitsingh.751/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumit-singh-569a0831b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitsinghraj751@gmail.com) 
 
-## 🧠 TryHackMe Badge
-<img src="https://tryhackme-badges.s3.amazonaws.com/sumitsinghraj751.png" alt="TryHackMe">
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sumitsingh751&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sumitsingh751&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumitsingh751&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💬 Random Dev Quote
-> “It is easier to change the specification to fit the program than vice versa.”  
-> — Alan Perlis
+## 🎯 TryHackMe Stats:
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sumitsinghraj751.png)](https://tryhackme.com/p/sumitsinghraj751)
 
----
 
-## 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🚀 About Me
-- 🎓 Cyber Security Student  
-- 🔐 Interested in Ethical Hacking & Pentesting  
-- 🧪 Building Security Tools with Python  
-- 🐧 Linux Enthusiast  
-- 🎯 Goal: Become Application Security / Pentesting Expert  
-
----
-
-## 📫 Contact
-📧 e-mail- sumitsinghraj751@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sumit-singh-569a0831b
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
