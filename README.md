@@ -15,6 +15,6 @@
 
 ## 🎯 TryHackMe Stats:
 
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-View%20Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/sumitsingh751)
+[![TryHackMe](./assets/tryhackme-card.svg)](https://tryhackme.com/p/sumitsingh751)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
