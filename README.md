@@ -14,6 +14,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumitsingh751&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🎯 TryHackMe Stats:
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sumitsingh751.png)](https://tryhackme.com/p/sumitsingh751)
+
+[![TryHackMe](https://YOUR-USERNAME.github.io/thm-badge/tryhackme_badge.svg)](https://tryhackme.com/p/sumitsingh751)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
